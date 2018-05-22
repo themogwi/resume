@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Miguel Sainz Jr.",
+    "label": "Full Stack Web Developer",
+    "picture": "",
+    "email": "themogwi@gmail.com",
+    "phone": "(301) 697-6087",
+    "summary": "Miguel is a versatile full stack web developer with over 7 years professional experience. Responsible for building elegant solutions for a wide variety of clients, including, but not limited to, training and assessment/certification providers, e-commerce, tourism, and health care organizations.",
+    "location": {
+      "address": "154 East Main Street Apt B",
+      "postalCode": "21532",
+      "city": "Frostburg",
+      "countryCode": "US",
+      "region": "Maryland"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "themogwi",
+        "url": "https://github.com/themogwi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "miguelsainzjr",
+        "url": "https://www.linkedin.com/in/miguelsainzjr"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Industry Knowledge",
+      "keywords": [
+        "SEO",
+        "OOP",
+        "Web Services",
+        "Unit Testing",
+        "Agile Development",
+        "SCRUM",
+        "User Interface Design",
+        "MVC Architecture",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP",
+        "MySQL",
+        "CakePHP",
+        "Larvel",
+        "WordPress",
+        "Linux",
+        "Apache",
+        "Nginx",
+        "AWS",
+        "Vagrant",
+        "Ansible",
+        "Git"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Willetts Systems",
+      "position": "Full Stack Web Developer",
+      "website": "https://www.teamwilletts.com/",
+      "startDate": "2013-07-01",
+      "endDate": "2018-01-01",
+      "summary": "At Willetts Miguel worked alongside a group of skilled developers focused on building custom web based software tuned to client's business requirements.",
+      "highlights": [
+        "Designed and developed a custom platform for the Manufacturing Skills Standards Council, an industry-led, training, assessment and certification system that provides front-line production and material handling workers with two industry-defined and federally-endorsed certifications.. The resulting system addressed all MSSC's needs by connecting the three pillars of the business, their assessment centers, candidates and employers.",
+        "Worked closly with MBS Keystone to develop a work order management and time clock application. This system allowed their technicians to create and manage work orders, purchase orders and keep track of their time while in the field."
+      ]
+    },
+    {
+      "company": "briskData",
+      "position": "Web Developer",
+      "website": "http://www.briskdata.com/",
+      "startDate": "2011-10-01",
+      "endDate": "2013-06-01",
+      "summary": "Miguel's time with briskData was spent developing a wide variety of solutions for businesses including public facing websites and internal tools.",
+      "highlights": [
+        "Worked with Offenbachers to create various internal, intranet applications to improve their day to day workflows as well manage and maintain their public facing website."
+      ]
+    },
+    {
+      "company": "Willetts Systems",
+      "position": "Support Developer",
+      "website": "https://www.teamwilletts.com/",
+      "startDate": "2010-08-01",
+      "endDate": "2011-09-30",
+      "summary": "As a support developer Miguel's responsibilities included issue remediation, new feature development and server management."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Allegany College of Maryland",
+      "area": "Computer Science",
+      "studyType": "Associates Degree",
+      "startDate": ""
+    }
+  ]
+}
